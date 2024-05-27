@@ -1,0 +1,17 @@
+.resultado {
+  margin-top: 25px;
+  width: 100%;
+  text-align: center;
+}
+
+.resultadoTitle {
+  font-weight: 600;
+  color: #4a90e2;
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+.resultadoText {
+  font-size: 18px;
+  color: #f0f0f0;
+}
