@@ -8,7 +8,7 @@ Uma aplicação React simples para calcular o Índice de Massa Corporal (IMC) co
 - Cálculo e exibição do IMC
 - Classificação do IMC
 
-## Tecnologias Utilizadas
+## Tecnologias e técnicas Utilizadas
 
 - React
 - Vite
