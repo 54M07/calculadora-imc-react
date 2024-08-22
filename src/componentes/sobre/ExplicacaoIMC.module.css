@@ -1,0 +1,55 @@
+.explicacao {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #2b2b2b;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    color: #f0f0f0;
+    text-align: left;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .explicacaoTitle {
+    font-size: 1.4em;
+    color: #4a90e2;
+    margin-bottom: 15px;
+  }
+  
+  .explicacaoSubtitle {
+    font-size: 1.2em;
+    color: #4a90e2;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .explicacaoText {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  .classificacoes {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .classificacoes li {
+    margin-bottom: 8px;
+  }
+  
+
+  .orientacoes {
+    list-style-type: disc;
+    padding-left: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 15px;
+  }
+  
+  .orientacoes li {
+    margin-bottom: 8px;
+  }
+  
